@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I'm Rohit, a PhD student at University of Pennsylvania. I'm passionate about computer vision and AI for healthcare/science.
 
-[![Rohit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=rohitrango&show_icons=true&theme=gotham](https://github-readme-stats-pi-wheat-43.vercel.app/api?username=rohitrango&show_icons=true&theme=gotham))](https://github.com/anuraghazra/github-readme-stats)
+[![Rohit's GitHub stats]([https://github-readme-stats-pi-wheat-43.vercel.app/api?username=rohitrango&show_icons=true&theme=gotham](https://github-readme-stats-pi-wheat-43.vercel.app/api?username=rohitrango&show_icons=true&theme=gotham))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rohitrango/rohitrango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
